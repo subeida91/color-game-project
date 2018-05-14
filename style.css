@@ -1,0 +1,144 @@
+body{
+margin: 0;	
+margin-top: -3%;
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	background-color: #201F21;
+}
+#game-container{
+
+width: 100%;
+}
+
+#header{
+
+	background-color: #3C76AE;
+	width: 100%;
+	height: 10%;
+
+	
+
+}
+
+
+
+#header-text-top, #header-text-bottom{
+	font-weight: 300;
+	font-size: 25px;
+
+}
+
+#header-text-top{
+	margin-right:41%;
+	margin-left:41%;
+	padding-top: 2%;
+	width: 100%;
+
+}
+
+#header-text-middle{
+	font-weight: 600;
+	font-size: 54px;
+	margin-right:30%;
+	margin-left:30%;
+	margin-top: -3%;
+	/*width: 100%;*/
+	width:400px; /*for the cheat*/
+}
+
+#header-text-bottom{
+	margin-right:38%;
+	margin-left:38%;
+	margin-top: -4%;
+	width: 100%;
+	
+}
+
+
+#navigation{
+	background-color: white;
+	color: #3C76AE;
+	width: 100%;
+	height: 35px;
+	margin-top: 2px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0 25%;
+	font-size: 23px;
+
+	
+	
+}
+
+
+
+#GameStart{
+	float:left;
+	padding-left: 0;
+	font-weight: 700;
+
+}
+
+#GameMessage{
+	float:left;
+	color: white;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.game-handicap-easy{
+	float:left;
+	font-weight: 700;
+
+}
+
+.game-handicap-hard{
+	float:left;
+	font-weight: 700;
+	margin-left: 10px;
+
+}
+
+.game-handicap-hard:hover, .game-handicap-easy:hover{
+	background: #3C76AE;
+	color: white;
+}
+
+.game-handicap-on{
+	background: #3C76AE !important;
+	color: white  !important;
+
+}	
+
+#box-container{
+	background-color: #201F21;
+	width: 100%;
+	height: 100%;
+	margin-top: 2px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 4.3% 25%;
+	overflow: hidden;
+}
+
+#box1, #box2, #box3, #box4, #box5, #box6{
+
+	background: #3C76AE;
+	width: 150px;
+	height: 150px;
+	border-radius: 25px;
+	margin: 0 10px;
+	float: left;
+
+}
+
+#box-container-top{
+
+}
+
+#box-container-bottom{
+	padding-top: 200px;
+}
+
