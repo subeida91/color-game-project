@@ -1,6 +1,6 @@
 /*
 
-Author: Jamal Yusuf
+Author: Subeida Ahmed
 Date: 2-29-2016
 
 Game to learn RGB color codes and test skills with dom manipulation  
